@@ -1,0 +1,10 @@
+PyQt6
+cellpose
+natsort
+numpy
+opencv-python
+psutil
+segment-anything
+torch
+trackastra
+aicspylibczi
